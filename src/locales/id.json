@@ -1,0 +1,20 @@
+{
+    "headerTitle": "Perjanjian Vendor",
+    "language": {
+        "en": "Inggris",
+        "id": "Bahasa"
+    },
+    "steps": {
+        "step1": "Langkah 1",
+        "step2": "Langkah 2",
+        "step3": "Langkah 3"
+    },
+    "form": {
+        "fullName": "Nama Lengkap",
+        "idNumber": "Nomor KTP",
+        "submit": "Kirim"
+    },
+    "success": {
+        "title": "Form Berhasil Dikirim!"
+    }
+}
