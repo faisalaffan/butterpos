@@ -8,6 +8,5 @@
 </template>
 
 <script setup>
-import { t } from '@/locales'
 import LanguageSelector from '@/components/LanguageSelector.vue'
 </script>

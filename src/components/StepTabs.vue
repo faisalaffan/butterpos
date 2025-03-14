@@ -9,7 +9,6 @@
 <script setup>
 import { computed } from 'vue'
 import { useFormStore } from '@/stores'
-import { t } from '@/locales'
 
 const formStore = useFormStore()
 
